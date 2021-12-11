@@ -5,10 +5,13 @@
 
 # Output
 
-<img src="https://github.com/pranjulknit/mealapp/blob/master/lib/gif1.gif">
+<img src="https://github.com/pranjulknit/mealapp/blob/master/lib/gifnew.gif" width="250" height="400">
 
+<br/>
+<br/>
+<br/>
 
-<img src="https://github.com/pranjulknit/mealapp/blob/master/lib/gif2.gif">
+<img src="https://github.com/pranjulknit/mealapp/blob/master/lib/gifnew1.gif" width="250" height="400">
 
 ## Getting Started
 
